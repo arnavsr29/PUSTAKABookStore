@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="src/assets/logo.png" height="100" width="100" alt="logo"/>
-  
-  An Ecommerce website for Books 
-</div>
+An Ecommerce website for Books 
 
 ## **Features -**
 
