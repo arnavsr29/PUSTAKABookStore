@@ -1,7 +1,6 @@
 <div align="center">
   <img src="src/assets/logo.png" height="100" width="100" alt="logo"/>
   
-# Pustaka
   An Ecommerce website for Books 
 </div>
 
